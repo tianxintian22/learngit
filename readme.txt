@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Push branch.
 Add one merge.
 add one line.
+a new line.
